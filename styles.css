@@ -1,0 +1,27 @@
+body {
+    background-color: burlywood;
+    text-align: center;
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 668px;
+    width: auto;
+}
+
+h1, #text {
+    font-family: "Monaco", Arial, Helvetica, monospace ;
+}
+
+#list-container {
+    text-align: center;
+}
+
+ul, ol {
+    font-family: "Copperplate", "Brush Script MT", monospace;
+    display: inline-block;
+    text-align: justify;
+}
