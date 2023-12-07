@@ -1,7 +1,14 @@
+
+
 body {
     background-color: burlywood;
     text-align: center;
 
+}
+#home-link {
+    display: inline-block;
+    margin: 5px;
+    
 }
 
 img {
@@ -24,4 +31,12 @@ ul, ol {
     font-family: "Copperplate", "Brush Script MT", monospace;
     display: inline-block;
     text-align: justify;
+    padding: 50px;
+    padding-left: 355px;
+    padding-right: 355px;
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
 }
